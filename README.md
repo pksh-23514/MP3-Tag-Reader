@@ -47,5 +47,5 @@ Flags $xx xx<br>
 ![image](https://user-images.githubusercontent.com/108017134/209990307-15270505-65ff-449d-aaba-c28b26c2abe3.png)
 
 ## References:
-1. [Wikipedia – ID3 Article](https://en.wikipedia.org/wiki/ID3)
-2. [ID3 Specification Website](https://id3.org/)
+[Wikipedia – ID3 Article](https://en.wikipedia.org/wiki/ID3)
+[ID3 Specification Website](https://id3.org/)
