@@ -29,9 +29,23 @@ Flags $xx xx<br>
 
 ## Requirements:
 1. This application, should be able to handle ID3 version v2.3 tags.
-2. Display which version of ID3 tag is used.
-3. Display all the metadata information from ID3 tag.
-4. User should be able to change tags according to options given.
-5. Should display a help screen on request (-h option).
-6. If any image embedded in file, display details about image (Type, path and size).
-7. If ID3 tag not found display proper error messages.
+2. Display the version of ID3 tag is used.
+3. Display all the Metadata information from ID3 tag.
+4. User should be able to change Tags according to the options given.
+5. Should display a Help screen on request (--help option).
+6. If ID3 tag is not found, display proper Error messages.
+
+## Snapshots:
+![image](https://user-images.githubusercontent.com/108017134/209990241-aceb0ca5-4d78-47df-b5fa-0373f6446abb.png)
+<br>
+![image](https://user-images.githubusercontent.com/108017134/209990261-f107a6f3-c5bb-45c8-b52a-e0262b738e57.png)
+<br>
+![image](https://user-images.githubusercontent.com/108017134/209990273-b69dee2a-c5ad-4d45-a857-d4674331a4c5.png)
+<br>
+![image](https://user-images.githubusercontent.com/108017134/209990292-6cb785ea-d323-417c-afa8-63f3f680a970.png)
+<br>
+![image](https://user-images.githubusercontent.com/108017134/209990307-15270505-65ff-449d-aaba-c28b26c2abe3.png)
+
+## References:
+1. [Wikipedia – ID3 Article](https://en.wikipedia.org/wiki/ID3)
+2. [ID3 Specification Website](https://id3.org/)
