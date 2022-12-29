@@ -26,3 +26,12 @@ Frame ID $xx xx xx xx (Four characters) [e.g.: TAL Album/Movie/Show title]<br>
 TIT2 Title / song name /content description<br>
 Size $xx xx xx xx (Four Characters)<br>
 Flags $xx xx<br>
+
+## Requirements:
+1. This application, should be able to handle ID3 version v2.3 tags.
+2. Display which version of ID3 tag is used.
+3. Display all the metadata information from ID3 tag.
+4. User should be able to change tags according to options given.
+5. Should display a help screen on request (-h option).
+6. If any image embedded in file, display details about image (Type, path and size).
+7. If ID3 tag not found display proper error messages.
