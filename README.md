@@ -1,4 +1,4 @@
-# MP3-Tag-Reader
+# MP3 Tag-Reader
 
 ## Abstract
 The MP3 Tag reader is a Software which will read and display MP3 (ID3) tag information from MP3 files. The software will be Desktop based. The project will be useful to individuals who wish to View and Collect MP3 tag data. This project can be extended to implement a Tag editor, wherein users can Modify MP3 tag information.
